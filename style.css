@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+#nportfolio{
+    font-weight: bold;
+    color: black;
+
+}
+#nprojects{
+    font-weight: bold;
+    color: black;
+
+}
+#neca{
+    font-weight: bold;
+    color: black;
+}
+#nm{
+    font-weight: bold;
+    color:black;
+}
+#nhome{
+    font-weight: bold;
+    color: black;
+}
+#neducation{
+    font-weight: bold;
+    color: black;
+}
+#nprogramming{
+    font-weight: bold;
+    color: black;
+}
+
+
+
+
+.background-image{
+    background-image: url("https://img.freepik.com/free-vector/portfolio-management-previous-projects-samples-works-catalog-skills-presentation-successful-graphic-designer-web-developer-cartoon-character_335657-1586.jpg");
+    background-size: cover;
+    background-color: transparent;
+    height: 100vh;
+}
+
+.Portfolio-main-content{
+    text-align: center;
+
+}
+
+.portfolio-heading{
+    color: black;
+    font-family: 'Roboto';
+    font-weight: bold;
+}
+
+.portfolio-paragraph{
+    color: black;
+    font-family: 'Roboto';
+    font-size: 25px;
+}
+
+.img1{
+    border-radius: 80px;
+    height: 250px;
+    width: 200px;
+}
+
+.education_card{
+    background-color: rgb(219, 229, 240);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    text-align: center;
+}
+.school__image{
+    height: 100px;
+    width: 100px;
+    border-radius: 20px;
+    margin: 20px;
+    size: auto;
+}
+.school_card{
+    background-color:aquamarine;
+    background-size: cover;
+}
+.education-heading{
+    color: black;
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: large;
+}
+.para_stye{
+    font-weight: bold;
+}
+.e-m-stream{
+    font-size: medium;
+}
